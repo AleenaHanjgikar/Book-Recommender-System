@@ -10,7 +10,6 @@ A content-based book recommendation system built using Python, Jupyter Notebook,
 
 - Recommend top similar books based on input
 - Uses content-based filtering with cosine similarity
-- Clean UI using Streamlit (optional)
 - Interactive user experience
 
 ---
@@ -32,7 +31,6 @@ book-recommender-system/
 - Pandas
 - NumPy
 - Scikit-learn
-- Streamlit (optional)
 - Jupyter Notebook
 
 ---
