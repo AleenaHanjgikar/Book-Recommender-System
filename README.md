@@ -15,6 +15,8 @@ A content-based book recommendation system built using Python, Jupyter Notebook,
 ---
 
 ## 📂 Project Structure
+
+
 book-recommender-system/
 │
 ├── book_recommender_system.ipynb # Main notebook
